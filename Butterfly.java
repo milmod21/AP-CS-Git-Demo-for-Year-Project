@@ -16,5 +16,6 @@ public class Butterfly extends Actor
     {
         //pull comment
         move(5);
+        int test = 4;
     }
 }
